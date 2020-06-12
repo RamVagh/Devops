@@ -39,7 +39,7 @@
    ```
 1. Expose environment variable:
    ```sh 
-    export KOPS_STATE_STORE=s3://dev.k8s.valaxy.in
+    export KOPS_STATE_STORE=s3://rams.dev.k8
    ```
 1. Create sshkeys before creating cluster
    ```sh
